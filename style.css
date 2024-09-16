@@ -58,7 +58,7 @@ body {
   transition: .4s;
 
   /* Adding the pattern */
-  background-image: url('../img/D_NQ_NP_883316-MLB77079761926_062024-O.webp'); /* Path to your small image */
+  background-image: url('./D_NQ_NP_883316-MLB77079761926_062024-O.webp'); /* Path to your small image */
   background-repeat: repeat; /* Repeats the image in both directions */
   background-size: 50px 50px; /* Adjust the size of the repeating image if needed */
 }
